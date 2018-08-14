@@ -1,0 +1,20 @@
+{
+  "name": "sync",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index from to"
+  },
+  "author": "Mike del Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^3.0.0",
+    "fs-extra": "^7.0.0",
+    "fs-extra-promise": "^1.0.1",
+    "object-equal": "^1.0.0",
+    "readdir-enhanced": "^2.2.1",
+    "recursive-readdir": "^2.2.2",
+    "recursive-watch": "^1.1.4"
+  }
+}
